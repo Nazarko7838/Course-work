@@ -1,0 +1,43 @@
+@startuml
+class GameGUI {
+    init_music()
+    main_menu()
+    rules_menu()
+    settings_menu()
+    set_mode()
+    ask_names()
+    save_names_and_start_game()
+    start_game()
+    initialize_round_history()
+    update_round_history()
+    play_round()
+    create_button_row()
+    process_player1_turn()
+    bot_choose_card()
+    process_player2_turn()
+    add_to_history()
+    saveToFile()
+    onSave()
+    show_final_results()
+    show_plot()
+        root
+    mode
+    game
+    player1_name
+    player2_name
+    history_frame
+    tree
+    sound_enabled
+    mode
+    player1_name_entry
+    player2_name_entry
+    player1_name
+    player2_name
+    game
+    current_round
+    rounds
+    tree
+    player1_choice
+    __init__()
+}
+@enduml

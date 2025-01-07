@@ -1,0 +1,4 @@
+D:/Course-Work/build/CMakeFiles/game_module.dir
+D:/Course-Work/build/CMakeFiles/ALL_BUILD.dir
+D:/Course-Work/build/CMakeFiles/ZERO_CHECK.dir
+D:/Course-Work/build/pybind11/CMakeFiles/ALL_BUILD.dir
